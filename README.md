@@ -1,4 +1,6 @@
 # Projeto de um crud de usuários bem completo com login e integração com s3(aws).
+## Descrição
+O foco deste projeto foi começar um sistema de eventos ciêntificos, mas várias ideias foram surgindo e acabou virando um "simples crud de usuários", uma ideia simples mas com uma implementação mias complexa por ser integrado com aws s3, métodos assincronos, testes unitários(incompleto), atenticação com jwt e envio de email.
 ## Tecnologias utilizadas:
 * java
 * Spring Boot
